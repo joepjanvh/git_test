@@ -1,0 +1,3 @@
+Rule 1 
+some text on next line
+and some more on the third 
